@@ -1,4 +1,4 @@
-# Myntra E-Commerce Sales & Category Performance Analysis
+# Fashion-E-Commerce-Sales-Category-Performance-Analysis
 
 ### Python | SQL | Power BI | Excel | Business Analytics
 
@@ -22,7 +22,7 @@ The project uses Python, SQL Server, Excel, and Power BI to transform raw data i
 | Tool | Purpose |
 |---|---|
 | Python (Pandas, NumPy, Matplotlib) | Data cleaning and exploratory data analysis |
-| SQL Server | Data querying, aggregation, and business analysis |
+| MySQL | Data querying, aggregation, and business analysis |
 | Power BI | Interactive dashboards and data visualization |
 | DAX | KPI calculations and performance metrics |
 | Excel | Data cleaning and validation |
@@ -86,8 +86,6 @@ Developed an interactive dashboard to visualize e-commerce sales performance, pr
 - Discount Analysis
 - Returns and Refund Analysis
 - Interactive filters for Date, Category, Brand, Gender, City, and Order Status
-
-### Power BI Dashboard File
 
 ## 💡 Business Insights
 
