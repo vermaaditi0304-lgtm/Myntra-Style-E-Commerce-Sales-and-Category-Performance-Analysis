@@ -1,4 +1,5 @@
-# Fashion-E-Commerce-Sales-Category-Performance-Analysis
+# Myntra Style E-Commerce Sales & Category Performance Analysis
+
 
 ### Python | SQL | Power BI | Excel | Business Analytics
 
